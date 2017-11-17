@@ -2,7 +2,9 @@
 
 # 运用play-java-starter-example构建Play运用
 
-  搭建了Play框架的环境并且成功运行，在这里只做一个自带Readme的翻译工作。具体的项目构建运行以我后面的为准。
+```
+   搭建了Play框架的环境并且成功运行，在这里只做一个自带Readme的翻译工作。具体的项目构建运行以我后面的为准。
+```
 
 这是一个告诉你Play框架怎么用的初学者项目。请到https://www.playframework.com/documentation/latest/Home 这个链接查看更多信息。
 
