@@ -52,12 +52,10 @@ sbt run
 
 - ApplicationTimer.java:
 
-  An example of a component that starts when the application starts and stops
-  when the application stops.
   一个随应用启动的程序，并和应用一起停止工作。
 
 ## Filters（过滤器）
 
 - ExampleFilter.java
 
-  一个简单的过滤器，只是在每个响应中添加了一个header。
+  一个简单的过滤器，只是在每个响应中添加了一个header。 
