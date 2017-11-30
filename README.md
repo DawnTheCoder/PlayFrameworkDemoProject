@@ -1,4 +1,16 @@
 [<img src="https://img.shields.io/travis/playframework/play-java-starter-example.svg"/>](https://travis-ci.org/playframework/play-java-starter-example)
+# 前言
+## 为什么我要用Play框架
+Play框架好处都有啥？
+- 内建HTTP服务器：调试无需下载Tomcat
+- 良好构建Restful风格项目：路径定义简单
+- 轻量级：周边的架子都帮你搭好了，专注业务即可
+- 并发支持：良好的高并发性能
+
+但是这玩意我也有想吐槽的：
+``编译逻辑奇怪！就算我只是写了一个注释，或者加了一个空格，对不起，重新编译...``
+
+不过因为Play框架真的很轻便，所以我依然喜欢这个框架。
 
 # 运用play-java-starter-example构建Play运用
 
